@@ -4,8 +4,4 @@
 
 jewellery Shop  |  Paired Bluetooth Devices |  Button Values
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](https://github.com/iqbalriiaz/Flutter-Showcase/blob/main/res/jwellery-shop.gif?raw=true)  |  ![image](https://github.com/iqbalriiaz/Arduino-Robo-Car/blob/main/2.jpeg) |  ![image](https://github.com/iqbalriiaz/Arduino-Robo-Car/blob/main/3.jpeg)
-
-Bluetooth Controller  |  Paired Bluetooth Devices |  Button Values
-:-------------------------:|:-------------------------:|:-------------------------:
-![image](https://github.com/iqbalriiaz/Arduino-Robo-Car/blob/main/1.jpeg)  |  ![image](https://github.com/iqbalriiaz/Arduino-Robo-Car/blob/main/2.jpeg) |  ![image](https://github.com/iqbalriiaz/Arduino-Robo-Car/blob/main/3.jpeg)
+![image](https://github.com/iqbalriiaz/Flutter-Showcase/blob/main/res/jwellery-shop.gif?raw=true)  |  ![image](https://raw.githubusercontent.com/iqbalriiaz/Flutter-Showcase/main/res/yeti-login-animation.gif) |  ![image]([https://github.com/iqbalriiaz/Arduino-Robo-Car/blob/main/3.jpeg](https://raw.githubusercontent.com/iqbalriiaz/Flutter-Showcase/main/res/yeti-login-animation.gif))
