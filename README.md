@@ -8,9 +8,9 @@ Jewellery Shop  |  Yeti-Login animation |  Doctor Appoinment
 
 # Flutter-Full-fledged-App
 
-Jewellery Shop  |  Yeti-Login animation |
+Weather App (API)  |  Fitness App (API)  |
 :-------------------------:|:-------------------------:
-![image](https://github.com/iqbalriiaz/Flutter-Showcase/blob/main/res/jwellery-shop.gif?raw=true) | ![image](https://raw.githubusercontent.com/iqbalriiaz/Flutter-Showcase/main/res/yeti-login-animation.gif) |
+![image](https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/fitness-app.gif?raw=true) |
 
 
 Weather App (API) |  Fitness App (API) 
