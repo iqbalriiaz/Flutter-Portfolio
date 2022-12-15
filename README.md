@@ -10,7 +10,7 @@ Jewellery Shop  |  Yeti-Login animation |  Doctor Appoinment
 # Flutter Full-fledged App
 
 Weather App (API) (Show Code)  |  Fitness App (API) (Show Code) |  Fitness App (API) (Show Code)
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/fitness-app.gif?raw=true) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/fitness-app.gif?raw=true)
 
 
