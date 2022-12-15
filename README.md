@@ -17,7 +17,5 @@ Weather App (Show Code)  |  Fitness App (Show Code)
 
 
 ```json
-"highlightwords.colors": [                                
-    ...
-],
+abc
 ```
