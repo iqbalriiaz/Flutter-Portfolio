@@ -15,7 +15,7 @@ Jewellery Shop [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/
 
 # Flutter Full-fledged App <a name="flutter_App"></a>  <a name="flutter-full-fledged-app---"></a>
 
-Weather App (API) [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/weather_app_api)  |  Fitness App (API) (Show Code) |  News APP (API) [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/fitness_app)
+Weather App (API) [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/weather_app_api)  |  Fitness App (API) [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/fitness_app) |  News APP (API) [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/fitness_app)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/fitness-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif)
 
