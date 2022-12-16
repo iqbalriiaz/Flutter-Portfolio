@@ -39,6 +39,6 @@ SEU Researchers (Website) (Playstore)  |  Robo Car (Show Code) (Playstore)
 
 # Open Source Project Contribution  <a name="open-source-project-contribution--"></a>
 
-Roktim [Show Code](https://github.com/RoySujon/blood_donor)
+Roktim [ongoing project] [Show Code](https://github.com/RoySujon/blood_donor)
 :-------------------------:
 ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/roktim.gif)
