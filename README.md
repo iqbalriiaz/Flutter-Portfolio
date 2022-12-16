@@ -29,7 +29,7 @@ E-Commerce Admin Panel (API) (Show Code)  |  Contact List (Sqflite) (Show Code)
 
 # Native Android Full-fledged App  <a name="native-android-full-fledged-app--"></a>
 
-SEU Researchers [Website](https://iqbalriiaz.github.io/seu-researchers/)   [Playstore](https://play.google.com/store/apps/details?id=com.iqbalriiaz.seuresearchers)  |  Arduino Robo Car (Show Code)
+SEU Researchers [Website](https://iqbalriiaz.github.io/seu-researchers/)   [Playstore](https://play.google.com/store/apps/details?id=com.iqbalriiaz.seuresearchers)  |  Arduino Robo Car [Show Code](https://github.com/iqbalriiaz/Arduino-Robo-Car)
 :-------------------------:|:-------------------------:
 ![image]() | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/Arduino-Robo-Car.gif) |
 
