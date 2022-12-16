@@ -1,6 +1,6 @@
 # Table of contents
 1. [Flutter Designs](#flutter_designs)
-2. [Flutter Full-fledged App](#flutter_App)
+2. [Flutter Full-fledged App](#flutter-full-fledged-app---)
 3. [Native Android Full-fledged App](#native-android-full-fledged-app--)
 4. [Open Source Project Contribution](#open_source_project_contribution)
 
@@ -14,7 +14,7 @@ Jewellery Shop  |  Yeti-Login animation |  Doctor Appoinment
 
 
 
-# Flutter Full-fledged App <a name="flutter_App"></a>  <a name="flutter_App"></a>
+# Flutter Full-fledged App <a name="flutter_App"></a>  <a name="flutter-full-fledged-app---"></a>
 
 Weather App (API) (Show Code)  |  Fitness App (API) (Show Code) |  News APP (API) (Show Code)
 :-------------------------:|:-------------------------:|:-------------------------:
