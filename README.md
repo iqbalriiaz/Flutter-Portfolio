@@ -32,7 +32,7 @@ E-Commerce Admin Panel (API) (Show Code)  |  Contact List (Sqflite) (Show Code)
 
 SEU Researchers (Website) (Playstore)  |  Robo Car (Show Code) (Playstore)
 :-------------------------:|:-------------------------:
-![image](https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/Arduino-Robo-Car.gif) |
+<img src="https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif" width="350" height="650"> | <img src="https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/Arduino-Robo-Car.gif width="350" height="650"> |
 
 
 
