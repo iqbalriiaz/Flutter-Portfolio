@@ -5,7 +5,7 @@
 4. [Open Source Project Contribution](#open_source_project_contribution)
 
 
-# Flutter Designs 
+# Flutter Designs <a name="flutter_designs"></a>
 
 Jewellery Shop  |  Yeti-Login animation |  Doctor Appoinment
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -14,7 +14,7 @@ Jewellery Shop  |  Yeti-Login animation |  Doctor Appoinment
 
 
 
-# Flutter Full-fledged App <a name="flutter_App"></a> <a name="flutter_designs"></a>
+# Flutter Full-fledged App <a name="flutter_App"></a> 
 
 Weather App (API) (Show Code)  |  Fitness App (API) (Show Code) |  News APP (API) (Show Code)
 :-------------------------:|:-------------------------:|:-------------------------:
