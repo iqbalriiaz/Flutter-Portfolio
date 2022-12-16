@@ -9,7 +9,7 @@
 
 Jewellery Shop  |  Yeti-Login animation |  Doctor Appoinment
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/jwellery-shop.gif" width="580" height="350"> | ![image](https://raw.githubusercontent.com/iqbalriiaz/Flutter-Showcase/main/res/yeti-login-animation.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/doctor-appointment-app.gif?raw=true)
+<img src="https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/jwellery-shop.gif" width="350" height="620"> | ![image](https://raw.githubusercontent.com/iqbalriiaz/Flutter-Showcase/main/res/yeti-login-animation.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/doctor-appointment-app.gif?raw=true)
 
 
 
