@@ -1,7 +1,7 @@
 # Table of contents
 1. [Flutter Designs](#flutter_designs)
-2. [Flutter Full-fledged App](#flutter_full_fledged_App)
-3. [Native Android Full-fledged App](#native_android_full_fledged_App)
+2. [Flutter Full-fledged App](#flutter_App)
+3. [Native Android Full-fledged App](#native_App)
 4. [Open Source Project Contribution](#open_source_project_contribution)
 
 
@@ -14,7 +14,7 @@ Jewellery Shop  |  Yeti-Login animation |  Doctor Appoinment
 
 
 
-# Flutter Full-fledged App <a name="flutter_full_fledged_App"></a>
+# Flutter Full-fledged App <a name="flutter_App"></a>
 
 Weather App (API) (Show Code)  |  Fitness App (API) (Show Code) |  News APP (API) (Show Code)
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -28,7 +28,7 @@ E-Commerce Admin Panel (API) (Show Code)  |  Contact List (Sqflite) (Show Code)
 
 
 
-# Native Android Full-fledged App  <a name="native_android_full_fledged_App"></a>
+# Native Android Full-fledged App  <a name="native_App"></a>
 
 SEU Researchers (Website) (Playstore)  |  Robo Car (Show Code) (Playstore)
 :-------------------------:|:-------------------------:
