@@ -17,7 +17,7 @@ Jewellery Shop  |  Yeti-Login animation |  Doctor Appoinment
 
 Weather App (API) (Show Code)  |  Fitness App (API) (Show Code) |  News APP (API) (Show Code)
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif) | ![image]()
+![image](https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/fitness-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif)
 
 E-Commerce Admin Panel (API) (Show Code)  |  Contact List (Sqflite) (Show Code)
 :-------------------------:|:-------------------------:
