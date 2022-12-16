@@ -42,7 +42,7 @@ SEU Researchers (Website) (Playstore)  |  Robo Car (Show Code) (Playstore)
 
 Weather App (API) (Show Code)  |  Fitness App (API) (Show Code) |  News APP (API) (Show Code)
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/fitness-app.gif?raw=true) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/fitness-app.gif?raw=true)
+![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/roktim.gif) | ![image]() | ![image]()
 
 
 Roktim (Show Code)  |   |  
