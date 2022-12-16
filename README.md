@@ -40,7 +40,7 @@ SEU Researchers (Website) (Playstore)  |  Robo Car (Show Code) (Playstore)
 
 # Open Source Project Contribution  <a name="open-source-project-contribution--"></a>
 
-Roktim (Show Code)  | will update later | will update later
+Roktim (Show Code)  | will  be  updated  later | will  be  updated  later
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/roktim.gif) | ![]() | ![]()
 
