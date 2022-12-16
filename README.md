@@ -42,4 +42,4 @@ SEU Researchers (Website) (Playstore)  |  Robo Car (Show Code) (Playstore)
 
 Roktim (Show Code)  |   |  
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/roktim.gif) | ![image]() | ![image]()
+![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/roktim.gif)
