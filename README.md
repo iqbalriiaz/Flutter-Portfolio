@@ -5,7 +5,7 @@
 4. [Open Source Project Contribution](#open_source_project_contribution)
 
 
-# Flutter Designs <a name="flutter_designs"></a>
+# Flutter Designs 
 
 Jewellery Shop  |  Yeti-Login animation |  Doctor Appoinment
 :-------------------------:|:-------------------------:|:-------------------------:
