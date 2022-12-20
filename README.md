@@ -19,9 +19,9 @@ Weather App (API) [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projec
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/fitness-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif)
 
-E-Commerce Admin Panel (API) (Show Code)  |  Contact List (Sqflite) (Show Code)
+E-Commerce Admin Panel (API) [Show Code](https://github.com/iqbalriiaz/E-Commerce-Admin-Panel)  |  Contact List (Sqflite) (Show Code)
 :-------------------------:|:-------------------------:
-![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif) |
+![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/ecommerce-admin-api.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif) |
 
 
 
