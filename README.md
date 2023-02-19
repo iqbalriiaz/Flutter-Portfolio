@@ -8,9 +8,9 @@
 
 # Flutter Designs <a name="flutter_designs"></a>
 
-Jewellery Shop [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/jwellery%20_app)  |  Yeti-Login animation [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/login_animation_with_precached_image) |  Doctor Appoinment [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/doctor_appointment_app)
+Ego Vision [Private]  | Jewellery Shop [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/jwellery%20_app)  |  Yeti-Login animation [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/login_animation_with_precached_image) |  Doctor Appoinment [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/doctor_appointment_app)
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/jwellery-shop.gif) | ![image](https://raw.githubusercontent.com/iqbalriiaz/Flutter-Showcase/main/res/yeti-login-animation.gif) |![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/doctor-appointment-app.gif?raw=true)
+![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/ego-vision.gif) |![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/jwellery-shop.gif) | ![image](https://raw.githubusercontent.com/iqbalriiaz/Flutter-Showcase/main/res/yeti-login-animation.gif) |![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/doctor-appointment-app.gif?raw=true)
 
 
 
