@@ -23,6 +23,14 @@ E-Commerce Admin Panel (API) [Show Code](https://github.com/iqbalriiaz/E-Commerc
 :-------------------------:|:-------------------------:
 ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/ecommerce-admin-api.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif) |
 
+Weather App (API) [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/weather_app_api)  |  Fitness App (API) [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/fitness_app) |  News APP (API) (Show Code)
+:-------------------------:|:-------------------------:|:-------------------------:
+![image](https://raw.githubusercontent.com/iqbalriiaz/Project-Showcase/main/res/weather-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/fitness-app.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif)
+
+E-Commerce Admin Panel (API) [Show Code](https://github.com/iqbalriiaz/E-Commerce-Admin-Panel)  |  Contact List (Sqflite) (Show Code)
+:-------------------------:|:-------------------------:
+![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/ecommerce-admin-api.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/updating.gif) |
+
 
 
 
