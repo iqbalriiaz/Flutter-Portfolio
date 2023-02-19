@@ -10,7 +10,7 @@
 
 Ego Vision [Private] | Bigbuy [Private]
 :-------------------------:|:-------------------------:
-![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/ego-vision.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/ego-vision.gif) 
+![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/ego-vision.gif) | ![image](https://github.com/iqbalriiaz/Project-Showcase/blob/main/res/bigbuy.gif) 
 
 Jewellery Shop [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/jwellery%20_app)  |  Yeti-Login animation [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/login_animation_with_precached_image) |  Doctor Appoinment [Show Code](https://github.com/iqbalriiaz/Flutter-Small-Projects/tree/main/doctor_appointment_app)
 :-------------------------:|:-------------------------:|:-------------------------:
